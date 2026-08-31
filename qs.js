@@ -10,14 +10,249 @@ const cardData = [{
     tip: '动动拇指取接屎',
     imgSrc: './pic/影响有意注意的因素.png'
 }, {
-    title: '注意的稳定性与分配',
-    tip: '稳中求胜，合理分配',
-    imgSrc: './注意稳定性与分配.png'
+    title: '中学生的认知发展特点',
+    tip: '有抽象能力',
+    imgSrc: './pic/中学生的认知发展特点.png'
 }, {
-    title: '注意的广度与转移',
-    tip: '眼观六路，灵活切换',
-    imgSrc: './注意广度与转移.png'
-}];
+    title: '知觉的基本特征',
+    tip: '尝姐体香',
+    imgSrc: './pic/知觉的基本特征.png'
+},
+{
+    title: '注意规律在教学中的应用',
+    tip: '无意+有意+无意有意结合',
+    imgSrc: './pic/注意规律在教学中的应用.png'
+},
+{
+    title: '注意的品质',
+    tip: '--',
+    imgSrc: './pic/注意的品质.png'
+},
+{
+    title: '影响遗忘的因素',
+    tip: '往情人房间尿尿',
+    imgSrc: './pic/影响遗忘的因素.png'
+},
+{
+    title: '影响问题解决的主要因素',
+    tip: '公鸡发情怎么解决？阉了！',
+    imgSrc: './pic/影响问题解决的主要因素.png'
+},
+{
+    title: '遗忘的原因',
+    tip: '--',
+    imgSrc: './pic/遗忘的原因.png'
+},
+{
+    title: '学习的概念',
+    tip: '--',
+    imgSrc: './pic/学习的概念.png'
+},
+{
+    title: '学习的分类-主体',
+    tip: '--',
+    imgSrc: './pic/学习的分类-主体.png'
+},
+{
+    title: '学习的分类-性质',
+    tip: '--',
+    imgSrc: './pic/学习的分类-性质.png'
+},
+{
+    title: '学习的分类-结果',
+    tip: '加动态知颜值',
+    imgSrc: './pic/学习的分类-结果.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '学生注意力的培养方法',
+    tip: '抬去吸点粪',
+    imgSrc: './pic/学生注意力的培养方法.png'
+},
+{
+    title: '心智技能的培养途径',
+    tip: '记住别说话，不然就完犊子',
+    imgSrc: './pic/心智技能的培养途径.png'
+},
+{
+    title: '问题解决的一般过程',
+    tip: '--',
+    imgSrc: './pic/问题解决的一般过程.png'
+},
+{
+    title: '思维的概念和特征',
+    tip: '--',
+    imgSrc: './pic/思维的概念和特征.png'
+},
+{
+    title: '思维的分类',
+    tip: '--',
+    imgSrc: './pic/思维的分类.png'
+},
+{
+    title: '培养学生想象力的方法',
+    tip: '幻想斯文教官',
+    imgSrc: './pic/培养学生想象力的方法.png'
+},
+{
+    title: '培养学生问题解决能力的方法',
+    tip: '背萝莉洗发',
+    imgSrc: './pic/培养学生问题解决能力的方法.png'
+},
+{
+    title: '经典条件作用的主要规律',
+    tip: '--',
+    imgSrc: './pic/经典条件作用的主要规律.png'
+},
+{
+    title: '加里培林的心智技能形成阶段',
+    tip: '--',
+    imgSrc: './pic/加里培林的心智技能形成阶段.png'
+},
+{
+    title: '记忆内容保持时间',
+    tip: '--',
+    imgSrc: './pic/记忆内容保持时间.png'
+},
+{
+    title: '记忆规律在教学中的应用-有效组织复习防止遗忘的方法',
+    tip: '遗精遗太多，过分分',
+    imgSrc: './pic/记忆规律在教学中的应用-有效组织复习防止遗忘的方法.png'
+},
+{
+    title: '记忆规律在教学中的应用-提高记忆能力的方法',
+    tip: '公主驸马异地',
+    imgSrc: './pic/记忆规律在教学中的应用-提高记忆能力的方法.png'
+},
+{
+    title: '记忆的过程',
+    tip: '--',
+    imgSrc: './pic/记忆的过程.png'
+},
+{
+    title: '根据记忆内容分类',
+    tip: '--',
+    imgSrc: './pic/根据记忆内容分类.png'
+},
+{
+    title: '感受性与感觉阈限',
+    tip: '性能，限量',
+    imgSrc: './pic/感受性与感觉阈限.png'
+},
+{
+    title: '短时记忆的特点',
+    tip: '昨晚两具干尸复活',
+    imgSrc: './pic/短时记忆的特点.png'
+},
+{
+    title: '创造性思维-发散性思维的特征',
+    tip: '疮遍毒瘤',
+    imgSrc: './pic/创造性思维-发散性思维的特征.png'
+},
+{
+    title: '创造性的培养途径-开设培养创造性的课程，教授创造性思维策略',
+    tip: '脑子散架',
+    imgSrc: './pic/创造性的培养途径3.png'
+},
+{
+    title: '创造性的培养途径-注重创造性个性的塑造',
+    tip: '废气剧毒',
+    imgSrc: './pic/创造性的培养途径2.png'
+},
+{
+    title: '创造性的培养途径1',
+    tip: '送烤鱼',
+    imgSrc: './pic/创造性的培养途径1.png'
+},
+{
+    title: '创造性的培养途径',
+    tip: '进个城（进个城，送烤鱼，废气剧毒，脑子散架！）',
+    imgSrc: './pic/创造性的培养途径.png'
+}, {
+    title: '操作技能的形成阶段与培养途径',
+    tip: '失恋后烦到昏厥',
+    imgSrc: './pic/操作技能的形成阶段与培养途径.png'
+},
+{
+    title: '奥苏知识学习分类-新旧知识',
+    tip: '--',
+    imgSrc: './pic/奥苏知识学习分类-新旧知识.png'
+},
+{
+    title: '奥苏知识学习分类-复杂程度',
+    tip: '--',
+    imgSrc: './pic/奥苏知识学习分类-复杂程度.png'
+},
+{
+    title: '奥苏贝尔学习分类示意图',
+    tip: '--',
+    imgSrc: './pic/奥苏贝尔学习分类示意图.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+{
+    title: '',
+    tip: '',
+    imgSrc: './pic/.png'
+},
+];
 
 // ============================================================
 // ========== 以下为渲染逻辑，无需修改 ==========
