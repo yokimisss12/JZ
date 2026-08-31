@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>记住就通过 · 图片居中放大</title>
+    <!-- 引入外部 CSS -->
+    <link rel="stylesheet" href="./qs.css">
+</head>
+<body>
+    <!-- 左侧目录 -->
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-title">📚 目录</div>
+        <ul class="sidebar-nav" id="sidebarNav"></ul>
+    </div>
+
+    <!-- 主内容区 -->
+    <div class="main-content">
+        <div class="box" id="cardContainer"></div>
+    </div>
+
+    <!-- 模态框：居中放大图片 -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-content">
+            <button class="modal-close" id="modalCloseBtn" aria-label="关闭图片"></button>
+            <img id="modalImage" src="" alt="放大视图">
+        </div>
+    </div>
+
+    <!-- 引入外部 JS -->
+    <script src="./qs.js"></script>
+</body>
+</html>
