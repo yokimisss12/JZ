@@ -64,16 +64,6 @@ const cardData = [{
     imgSrc: './pic/学习的分类-结果.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
-},
-{
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
-},
-{
     title: '学生注意力的培养方法',
     tip: '抬去吸点粪',
     imgSrc: './pic/学生注意力的培养方法.png'
