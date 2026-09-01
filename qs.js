@@ -1155,15 +1155,6 @@ const cardData = [{
 
         // 占位文本
         const placeholder = document.createElement('div');
-        placeholder.className = 'placeholder-text';
-        placeholder.innerHTML = `<span style="font-size:2rem;opacity:0.4;">🖼️</span><br> 点击卡片查看大图`;
-
-        // 图片加载错误处理
-        img.onerror = function () {
-            img.remove();
-            placeholder.className = 'placeholder-text error';
-            placeholder.innerHTML = `<span style="font-size:2rem;">⚠️</span><br> 图片加载失败<br><small style="opacity:0.5;font-size:0.8rem;">${item.imgSrc}</small>`;
-        };
 
         // 点击缩略图 -> 打开模态框
         img.addEventListener('click', function (e) {
