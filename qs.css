@@ -575,3 +575,50 @@ body {
     opacity: 0.12;
     font-size: 2rem;
 }
+
+@media (max-width: 780px) {
+    .sidebar {
+        max-height: 160px;         /* 适当增加高度，容纳多行标签 */
+        overflow-y: auto;          /* 标签太多时允许滚动 */
+        padding: 12px 14px;
+    }
+
+    .sidebar-nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 4px 8px;             /* 行间距4px，列间距8px */
+    }
+
+    .sidebar-nav li {
+        padding: 5px 12px;
+        font-size: 0.78rem;
+        border-radius: 16px;
+        flex-shrink: 0;            /* 防止标签被挤压 */
+    }
+}
+
+@media (max-width: 480px) {
+    .sidebar {
+        max-height: 140px;
+        padding: 10px 12px;
+        border-radius: 20px;
+    }
+
+    .sidebar-title {
+        font-size: 0.85rem;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+    }
+
+    .sidebar-nav {
+        gap: 4px 6px;
+    }
+
+    .sidebar-nav li {
+        font-size: 0.7rem;
+        padding: 4px 10px;
+        border-radius: 14px;
+    }
+
+    /* 其余样式保持不变 ... */
+}
