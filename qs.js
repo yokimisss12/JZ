@@ -224,7 +224,7 @@ const cardData = [{
 },
 {
     title: '学习迁移的分类',
-    tip: '--',
+    tip: '政府消极，顺逆先后',
     imgSrc: './pic/学习迁移的分类.png'
 },
 {
@@ -855,7 +855,7 @@ const cardData = [{
 {
     title: '教学的作用意义',
     tip: '中戏面基',
-    imgSrc: './pic/.教学的作用意义png'
+    imgSrc: './pic/教学的作用意义.png'
 },
 {
     title: '教学的任务',
@@ -1013,24 +1013,24 @@ const cardData = [{
     imgSrc: './pic/备课的要求过程.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '德育的内容',
+    tip: '河童像太监',
+    imgSrc: './pic/德育的内容.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '德育过程的基本规律',
+    tip: '知网赚翻了',
+    imgSrc: './pic/德育过程的基本规律.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '德育九原则',
+    tip: '叔向来言行一致，整点钱财救急',
+    imgSrc: './pic/德育九原则.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '科尔伯格道德发展阶段',
+    tip: '柯南给【城里人发惠普】',
+    imgSrc: './pic/科尔伯格道德发展阶段.png'
 },
 {
     title: '',
@@ -1137,7 +1137,7 @@ const cardData = [{
         // 标题
         const qsDiv = document.createElement('div');
         qsDiv.className = 'qs';
-        qsDiv.textContent = item.title;
+        qsDiv.textContent = index + 1 + '. ' + item.title;
 
         // 口诀
         const tipDiv = document.createElement('div');
