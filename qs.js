@@ -538,6 +538,11 @@ const cardData = [{
     imgSrc: './pic/实践锻炼法的贯彻要求.png'
 },
 {
+    title: '综合实践活动特点',
+    tip: '整点猪屎放生',
+    imgSrc: './pic/综合实践活动特点.jpg'
+},
+{
     title: '师生关系的内容特点',
     tip: '相互平等的主人和禽兽',
     imgSrc: './pic/师生关系的内容特点.png'
@@ -744,7 +749,7 @@ const cardData = [{
 },
 {
     title: '教育目的-理论',
-    tip: '社会：社恐和图图寻开心、个人：课人说杰伦福禄齐',
+    tip: '生活人社无目的————社会：社恐和图图寻开心、个人：课人说杰伦福禄齐',
     imgSrc: './pic/教育目的-理论.png'
 },
 {
@@ -786,6 +791,11 @@ const cardData = [{
     title: '教育的功能',
     tip: '--',
     imgSrc: './pic/教育的功能.png'
+},
+{
+    title: '教学原则',
+    tip: '关公有实力，从不见财起意',
+    imgSrc: './pic/教学原则.png'
 },
 {
     title: '教学原则-直观性原则',
@@ -1033,50 +1043,150 @@ const cardData = [{
     imgSrc: './pic/科尔伯格道德发展阶段.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '学校德育的实效性提高策略',
+    tip: '无内幕，境内合法！',
+    imgSrc: './pic/学校德育的实效性提高策略.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧政府保护',
+    tip: '暂时找不到监护人-临时，监护人没了-长期',
+    imgSrc: './pic/追责相关问题答题技巧政府保护.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧',
+    tip: '分内之事',
+    imgSrc: './pic/追责相关问题答题技巧.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-严重的教育惩戒',
+    tip: '提前告知家长',
+    imgSrc: './pic/追责相关问题答题技巧-严重的教育惩戒.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-学校相关',
+    tip: '骨折，瘸腿-普通学校不得拒收；小学+初中不得分普通重点班',
+    imgSrc: './pic/追责相关问题答题技巧-学校相关.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-学生权利',
+    tip: '公民权+受教育权',
+    imgSrc: './pic/追责相关问题答题技巧-学生权利.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-网络保护',
+    tip: '22：00-8:00不准提供； 16+才能直播',
+    imgSrc: './pic/追责相关问题答题技巧-网络保护.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-社会',
+    tip: '--',
+    imgSrc: './pic/追责相关问题答题技巧-社会.png'
 },
 {
-    title: '',
-    tip: '',
-    imgSrc: './pic/.png'
+    title: '追责相关问题答题技巧-家庭',
+    tip: '--',
+    imgSrc: './pic/追责相关问题答题技巧-家庭.png'
 },
+{
+    title: '追责相关问题答题技巧-法律责任',
+    tip: '--',
+    imgSrc: './pic/追责相关问题答题技巧-法律责任.png'
+},
+{
+    title: '中小学生教师职业道德规范1',
+    tip: '终生育人，爱国爱岗爱学生',
+    imgSrc: './pic/中小学生教师职业道德规范1.png'
+},
+{
+    title: '中小学生教师职业道德规范',
+    tip: '终生育人，爱国爱岗爱学生',
+    imgSrc: './pic/中小学生教师职业道德规范.png'
+},
+{
+    title: '中小学生教师违反职业道德处理办法',
+    tip: '--',
+    imgSrc: './pic/中小学生教师违反职业道德处理办法.png'
+},
+{
+    title: '中小学班主任工作规定',
+    tip: '1年++，岗前，津贴入绩效',
+    imgSrc: './pic/中小学班主任工作规定.png'
+},
+{
+    title: '中华人民共和国宪法-总纲',
+    tip: '集合给证人更衣',
+    imgSrc: './pic/中华人民共和国宪法-总纲.png'
+},
+{
+    title: '学生观-以人为本的学生观',
+    tip: '学生【特意发展】',
+    imgSrc: './pic/学生观-以人为本的学生观.png'
+},
+{
+    title: '学生观-以人为本的学生观-分条解析',
+    tip: '学生【特意发展】',
+    imgSrc: './pic/学生观-以人为本的学生观-分条解析.png'
+},
+{
+    title: '教育基本制度',
+    tip: '--',
+    imgSrc: './pic/教育基本制度.png'
+},
+{
+    title: '教育观-新课改的教学观',
+    tip: '学者的成人教学',
+    imgSrc: './pic/教育观-新课改的教学观.png'
+},
+{
+    title: '教育观-素质教育的内涵or基本要求',
+    tip: '提速“创屎”体面的歌星',
+    imgSrc: './pic/教育观-素质教育的内涵or基本要求.png'
+},
+{
+    title: '教师观-教师教学行为的转变',
+    tip: '赞助盒饭',
+    imgSrc: './pic/教师观-教师教学行为的转变.png'
+},
+{
+    title: '教师观-教师职业角色的转变',
+    tip: '见金眼开',
+    imgSrc: './pic/教师观-教师职业角色的转变.png'
+},
+{
+    title: '关于加强和改进新时代师德师风建设的意见',
+    tip: '树根，师德1',
+    imgSrc: './pic/关于加强和改进新时代师德师风建设的意见.png'
+},
+{
+    title: '公民的基本权利和义务1',
+    tip: '--',
+    imgSrc: './pic/公民的基本权利和义务1.png'
+},
+{
+    title: '公民的基本权利和义务',
+    tip: '劳动和受教育，既使权利，也是义务',
+    imgSrc: './pic/公民的基本权利和义务.png'
+},
+    // {
+    //     title: '',
+    //     tip: '--',
+    //     imgSrc: './pic/.png'
+    // },
+    // {
+    //     title: '',
+    //     tip: '--',
+    //     imgSrc: './pic/.png'
+    // },
+    // {
+    //     title: '',
+    //     tip: '--',
+    //     imgSrc: './pic/.png'
+    // },
+    // {
+    //     title: '',
+    //     tip: '--',
+    //     imgSrc: './pic/.png'
+    // },
 ];
 
 // ============================================================

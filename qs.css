@@ -113,6 +113,16 @@ body {
     min-width: 0;
 }
 
+.topTips {
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(4px);
+    border-radius: 10px;
+    padding: 6px;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06), 0 6px 16px rgba(0, 0, 0, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    color: red;
+}
+
 .box {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -555,22 +565,26 @@ body {
 
 @media (max-width: 780px) {
     .sidebar {
-        max-height: 160px;         /* 适当增加高度，容纳多行标签 */
-        overflow-y: auto;          /* 标签太多时允许滚动 */
+        max-height: 160px;
+        /* 适当增加高度，容纳多行标签 */
+        overflow-y: auto;
+        /* 标签太多时允许滚动 */
         padding: 12px 14px;
     }
 
     .sidebar-nav {
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 4px 8px;             /* 行间距4px，列间距8px */
+        gap: 4px 8px;
+        /* 行间距4px，列间距8px */
     }
 
     .sidebar-nav li {
         padding: 5px 12px;
         font-size: 0.78rem;
         border-radius: 16px;
-        flex-shrink: 0;            /* 防止标签被挤压 */
+        flex-shrink: 0;
+        /* 防止标签被挤压 */
     }
 }
 
